@@ -103,8 +103,3 @@ The simulation provides strong empirical evidence that switching doors does inde
 ## Conclusion
 
 This C\# code demonstrates how probabilistic theory can be verified through simulation. By modeling the problem logic and repeating across many randomized trials, we can prove non-intuitive statistical phenomena like the advantage of switching choices in the Monty Hall dilemma. The law of large numbers ensures the simulated results match the calculated probabilities.
-
-## References
-
-- [Granberg, Donald ↗](http://fittheory.com/montyhall/granberg.pdf). "The Monty Hall Dilemma: To Switch or Not to Switch." Working paper, 1991.
-- [Rosenhouse, Jason ↗](https://global.oup.com/academic/product/the-monty-hall-problem-9780195607613?cc=us&lang=en&#). The Monty Hall Problem: The Remarkable Story of Math's Most Contentious Brain Teaser. Oxford University Press, 2009.
